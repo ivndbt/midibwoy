@@ -14,5 +14,5 @@ Here you can find the Arduino code to make it works.
 
 ## Description
 
-You can find additional information on ~~<https://www.rookiebwoy.eu/projects/midibwoy/midibwoy.php>~~ <https://ivndbt.com/makes/midibwoy/midibwoy.html> .
+You can find additional information on ~~[rookiebwoy.eu](https://www.rookiebwoy.eu/projects/midibwoy/midibwoy.php)~~ [ivndbt.com](https://ivndbt.com/makes/midibwoy/midibwoy.html).
 
